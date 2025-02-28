@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import UIKit
 import YapDatabase
 
 final class DatabaseManager: StorageManagerProtocol {
